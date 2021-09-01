@@ -1,0 +1,1 @@
+var subdomain = 'mystore'; var siteid = 'F68B84B8-8B04-446B-BBB2-0DDFF8BB7BC9';
